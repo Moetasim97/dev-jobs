@@ -37,7 +37,7 @@ width: fit-content;
 .App {
   text-align: center;
   background-color: #f4f6f8;
-  height: 100vh;
+  height: 100%;
   width: 100%;
 
 }
@@ -139,5 +139,25 @@ label{
   background-color:#6771e3 ;
 }
 
+.small_font{
+  font-size: 14px;
+}
 
 
+
+.card_wrapper{
+  height: 190px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.middle_section{
+  margin-top: 80px;
+}
+
+.company{
+  font-style: Kumbh_regular;
+  font-weight: 700;
+  font-size: 14px;
+  color: #6771e3;
+}
